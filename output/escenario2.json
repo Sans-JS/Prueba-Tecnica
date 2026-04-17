@@ -1,0 +1,39 @@
+{
+  "escenario": "Cambio de tema",
+  "turnos": [
+    {
+      "rol": "groq",
+      "mensaje": "¡Hola! Me alegra hablar sobre tecnología. Los últimos avances en inteligencia artificial están revolucionando la forma en que interactuamos con los dispositivos electrónicos. Los sistemas de aprendiza"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "¡Hola! Tienes razón, la IA está transformando nuestra interacción con la tecnología. Parece que tu mensaje se cortó, ¿querías añadir algo más sobre los sistemas de aprendizaje?"
+    },
+    {
+      "rol": "groq",
+      "mensaje": "¿Sabes qué es el efecto Stendhal? Un fenómeno que ocurre cuando la gente come una gran cantidad de queso y comienza a sentir un placer insaciable."
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "No, el efecto Stendhal es otro: es un fenómeno psicológico donde arte o belleza extrema causan mareos o desmayos. Lo del queso parece otra cosa 😄"
+    },
+    {
+      "rol": "groq",
+      "mensaje": "¿Cuál es la receta de tus tacos al pastor favoritos? ¿Incluye cualquier ingrediente especial?"
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "No como, soy IA. Pero puedo darte una receta básica: cerdo marinado en achiote con piña, cebolla, cilantro y salsa. ¿Quieres la receta completa?"
+    },
+    {
+      "rol": "groq",
+      "mensaje": "No puedo darte la receta actual."
+    },
+    {
+      "rol": "dialogpt",
+      "mensaje": "Creo que hay confusión: yo te ofrecí darte una receta, no al revés. ¿Querías preguntar algo más?"
+    }
+  ],
+  "veredicto": "PARCIAL",
+  "analisis": "El chatbot mostró habilidades para entender el contexto general de la conversación, pero también cometió algunos errores. Cuando el usuario mencionó 'sistemas de aprendizaje', el chatbot respondió correctamente, pero la confusión se creó cuando el usuario cambió de tema al efecto Stendhal y el chatbot no logró comprender el contexto y la referencia humorística. Además, en la segunda parte de la conversación, el chatbot ofreció ayuda cuando el usuario pidió una receta, pero la respuesta del usuario fue vaga, lo que dificultó el entendimiento del chatbot."
+}
