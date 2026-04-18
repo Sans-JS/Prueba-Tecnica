@@ -27,12 +27,6 @@ API de Groq (llama-3.1-8b-instant)
 HuggingFace Router (MiniMax-M2.7)
 Fetch API
 File System (fs)
-📁 Estructura del proyecto
-src/ 
-├── core/ │ ├── conversationManager.js │ ├── scenarios.js │ 
-├── services/ │ ├── groqService.js │ ├── dialogptService.js │ ├── evaluationService.js │ ├── fileService.js │ 
-├── index.js
-output/ ├── escenario1.json ├── escenario2.json ├── escenario3.json ├── escenario4.json
 
 🚀 Instalación
 git clone cd npm install
